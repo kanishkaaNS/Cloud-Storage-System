@@ -98,10 +98,20 @@ FRONTEND_URL=
 ## Images 📸
 
 - Dashboard
+- 
 <img width="1907" height="977" alt="fig-4 3" src="https://github.com/user-attachments/assets/47bcba1c-d75a-4ef9-b266-d6c4e65493f5" />
+
+
 - File Upload Interface
+ 
 <img width="1250" height="716" alt="fig-4 7" src="https://github.com/user-attachments/assets/0a4654a0-32d5-469d-b5b0-896a68514991" />
+
+
 - Storage Overview
+
 - <img width="794" height="607" alt="fig-4 4" src="https://github.com/user-attachments/assets/c5e858b2-13df-42eb-9cdf-9bbb46aa3970" />
+
+
 - Admin Dashboard
+
 <img width="1919" height="979" alt="fig-4 11" src="https://github.com/user-attachments/assets/95787fc7-9c73-447a-93cb-cd50bbb0b59d" />

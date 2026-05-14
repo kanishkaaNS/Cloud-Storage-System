@@ -98,7 +98,7 @@ FRONTEND_URL=
 ## Images 📸
 
 - Dashboard
-- 
+  
 <img width="1907" height="977" alt="fig-4 3" src="https://github.com/user-attachments/assets/47bcba1c-d75a-4ef9-b266-d6c4e65493f5" />
 
 
@@ -109,7 +109,7 @@ FRONTEND_URL=
 
 - Storage Overview
 
-- <img width="794" height="607" alt="fig-4 4" src="https://github.com/user-attachments/assets/c5e858b2-13df-42eb-9cdf-9bbb46aa3970" />
+  <img width="794" height="607" alt="fig-4 4" src="https://github.com/user-attachments/assets/c5e858b2-13df-42eb-9cdf-9bbb46aa3970" />
 
 
 - Admin Dashboard

@@ -95,23 +95,37 @@ CORS_ALLOWED_ORIGINS=
 FRONTEND_URL=
 ```
 
-## Images 📸
+## 📸 Application Preview
 
-- Dashboard
-  
+<table>
+<tr>
+<td align="center"><strong> Dashboard </strong></td>
+<td align="center"><strong> File Upload Interface </strong></td>
+</tr>
+
+<tr>
+<td>
 <img width="1907" height="977" alt="fig-4 3" src="https://github.com/user-attachments/assets/47bcba1c-d75a-4ef9-b266-d6c4e65493f5" />
+</td>
 
-
-- File Upload Interface
- 
+<td>
 <img width="1250" height="716" alt="fig-4 7" src="https://github.com/user-attachments/assets/0a4654a0-32d5-469d-b5b0-896a68514991" />
+</td>
+</tr>
 
+<tr>
+<td align="center"><strong> Storage Overview </strong></td>
+<td align="center"><strong> Admin Dashboard </strong></td>
+</tr>
 
-- Storage Overview
+<tr>
+<td>
+<img width="794" height="607" alt="fig-4 4" src="https://github.com/user-attachments/assets/c5e858b2-13df-42eb-9cdf-9bbb46aa3970" />
+</td>
 
-  <img width="794" height="607" alt="fig-4 4" src="https://github.com/user-attachments/assets/c5e858b2-13df-42eb-9cdf-9bbb46aa3970" />
-
-
-- Admin Dashboard
-
+<td>
 <img width="1919" height="979" alt="fig-4 11" src="https://github.com/user-attachments/assets/95787fc7-9c73-447a-93cb-cd50bbb0b59d" />
+</td>
+</tr>
+
+</table>

@@ -4,13 +4,9 @@ A modern cloud storage web application inspired by platforms like Google Drive a
 
 Developed collaboratively as part of an IBM internship project.
 
----
-
 ## 🚀 Live Demo
 
 🔗 https://cloudstoragesystem-cjqn.onrender.com
-
----
 
 ## Features ✨
 
